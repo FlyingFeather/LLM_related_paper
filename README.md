@@ -84,8 +84,8 @@
 
 
 ### struct-data
-StructGPT: A General Framework for Large Language Model to Reason over Structured Data
-DiffuD2T: Empowering Data-to-Text Generation with Diffusion(看起来是表格数据)
+- StructGPT: A General Framework for Large Language Model to Reason over Structured Data
+- DiffuD2T: Empowering Data-to-Text Generation with Diffusion(看起来是表格数据)
 - [PRODIGY: Enabling In-context Learning Over Graphs](https://arxiv.org/abs/2305.12600v1) (May 2023)
 
 ### classification
