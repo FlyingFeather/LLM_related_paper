@@ -5,9 +5,20 @@
 - [Towards Reasoning in Large Language Models: A Survey.]() 
 - [Reasoning with Language Model Prompting: A Survey]()
 - [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223) (April 2023)
+- [Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354) (June 2023)
 
+## Foundation Models
+
+[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
+
+[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://scontent-sin6-2.xx.fbcdn.net/v/t39.2365-6/10000000_662098952474184_2584067087619170692_n.pdf?_nc_cat=105&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=qhK-ahCbkBMAX9Dzaw7&_nc_ht=scontent-sin6-2.xx&oh=00_AfCAxDCJgixsboS6n2Wjww-x9hIayo0iASA47IddwbgnJw&oe=64BE66FF)
+
+[GLM: General Language Model Pretraining with Autoregressive Blank Infilling](https://arxiv.org/abs/2103.10360)
+
+[GLM-130B: An Open Bilingual Pre-trained Model](https://arxiv.org/abs/2210.02414)
 
 ## Chain-of-thoughts
+
 - [[self-COT]Self-consistency improves chain of thought reasoning in language models](https://arxiv.org/abs/2203.11171) [code]()
 - [Reflexion: an autonomous agent with dynamic memory and self-reflection]()
 - [Universality and Limitations of Prompt Tuning](https://arxiv.org/abs/2305.18787) (May 2023)
@@ -33,8 +44,6 @@
 - [Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://arxiv.org/abs/2305.14325) (May 2023)
 - [ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on\\ Chat-based Large Language Models](https://arxiv.org/abs/2305.14323) (May 2023)
 
-
-
 ## Finetune
 ### base
 - [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention]()
@@ -44,21 +53,37 @@
 
 ### multimodal
 
+## some principle
 
-### some principle
 - [Meta-in-context learning in large language models](https://arxiv.org/abs/2305.12907) (May 2023)
 - [Post Hoc Explanations of Language Models Can Improve Language Models](https://arxiv.org/abs/2305.11426) (May 2023)  
 - [What In-Context Learning "Learns" In-Context: Disentangling Task Recognition and Task Learning](https://arxiv.org/abs/2305.09731) (May 2023)
 - [Heterogeneous Value Evaluation for Large Language Models](https://arxiv.org/abs/2305.17147) (May 2023)
 - [Large Language Models as Tool Makers](https://arxiv.org/abs/2305.17126v1) (May 2023)
+- [NPPrompt: Pre-trained Language Models Can be Fully Zero-Shot Learners](https://arxiv.org/abs/2212.06950) (Zero-Shot)
 
 ## Agent
-- [Auto-GPT]
-- [BabyGPT]
+- [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761) [code]
+
+- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) [code]
+
+- [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/abs/2303.17580) [code]
+
+- [Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow](https://arxiv.org/abs/2306.07209) (June 2023，数据分析agent)
+
+- [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) （May 2023，游戏agent）
+
 - [CooK: Empowering General-Purpose Language Models with Modular and Collaborative Knowledge](https://arxiv.org/abs/2305.09955) (May 2023)
-- [Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents]
-- [HuggingGPT] https://github.com/microsoft/JARVIS
+
+- [Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents](https://arxiv.org/abs/2306.03314)
+
 - [FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/abs/2305.05176v1) (May 2023)[成本与性能]
+
+- AgentGPT [code](https://github.com/reworkd/AgentGPT)
+
+- AutoGPT [[code](https://github.com/Significant-Gravitas/Auto-GPT)]
+
+  
 
 ## Application
 
@@ -93,3 +118,4 @@
 - [PromptClass: Weakly-Supervised Text Classification with Prompting Enhanced Noise-Robust Self-Training](https://arxiv.org/abs/2305.13723) (May 2023)
 - [Enhancing Black-Box Few-Shot Text Classification with Prompt-Based Data Augmentation](https://arxiv.org/abs/2305.13785) (May 2023)
 
+  
