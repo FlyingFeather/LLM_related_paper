@@ -1,4 +1,4 @@
-# LLM_related_paper
+# 📖 LLM_related_paper_and_github
 
 ## Survey or consluion
 - [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842) (Feb 2023) [code]
@@ -41,6 +41,10 @@
 - [Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://arxiv.org/abs/2305.14325) (May 2023)
 - [ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on\\ Chat-based Large Language Models](https://arxiv.org/abs/2305.14323) (May 2023)
 
+## Prompt
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+  
 ## Finetune
 ### base
 - [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention]()
@@ -48,9 +52,15 @@
 - [SQL-PaLM: Improved Large Language ModelAdaptation for Text-to-SQL]()
 - [Focused Prefix Tuning for Controllable Text Generation](https://arxiv.org/abs/2306.00369) (June 2023)
 
+### model
+- [Github ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
+- [Github ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
+- [Github ChatLaw(中文法律大模型)](https://github.com/PKU-YuanGroup/ChatLaw)
+- [Github Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese)
+
 ### multimodal
 
-## some principle
+## ✨ some principle
 
 - [Meta-in-context learning in large language models](https://arxiv.org/abs/2305.12907) (May 2023)
 - [Post Hoc Explanations of Language Models Can Improve Language Models](https://arxiv.org/abs/2305.11426) (May 2023)  
@@ -77,6 +87,16 @@
 
 
 ## Application
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper)
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper)
+- [document: langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
+- [ChatALL: multi-llm](https://github.com/sunner/ChatALL)
+- [微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人](https://github.com/littlecodersh/ItChat)
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+- [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
+- [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
+- [chat集成到浏览器-chatGPTBox](https://github.com/josStorer/chatGPTBox)
+- [Chat2DB](https://github.com/chat2db/Chat2DB)
 
 
 ### code
@@ -91,6 +111,7 @@
 
 ### document
 - [PEARL: Prompting Large Language Models to Plan and Execute Actions Over Long Documents](https://arxiv.org/abs/2305.14564v1) (May 2023)
+- [Github gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 
 ### reason
 - [Interpretable Math Word Problem Solution Generation Via Step-by-step Planning](https://arxiv.org/abs/2306.00784) (June 2023)
