@@ -9,28 +9,25 @@
 
 ## Foundation Models
 
-[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
-
-[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://scontent-sin6-2.xx.fbcdn.net/v/t39.2365-6/10000000_662098952474184_2584067087619170692_n.pdf?_nc_cat=105&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=qhK-ahCbkBMAX9Dzaw7&_nc_ht=scontent-sin6-2.xx&oh=00_AfCAxDCJgixsboS6n2Wjww-x9hIayo0iASA47IddwbgnJw&oe=64BE66FF)
-
-[GLM: General Language Model Pretraining with Autoregressive Blank Infilling](https://arxiv.org/abs/2103.10360)
-
-[GLM-130B: An Open Bilingual Pre-trained Model](https://arxiv.org/abs/2210.02414)
+- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
+- [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://scontent-sin6-2.xx.fbcdn.net/v/t39.2365-6/10000000_662098952474184_2584067087619170692_n.pdf?_nc_cat=105&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=qhK-ahCbkBMAX9Dzaw7&_nc_ht=scontent-sin6-2.xx&oh=00_AfCAxDCJgixsboS6n2Wjww-x9hIayo0iASA47IddwbgnJw&oe=64BE66FF)
+- [GLM: General Language Model Pretraining with Autoregressive Blank Infilling](https://arxiv.org/abs/2103.10360)
+- [GLM-130B: An Open Bilingual Pre-trained Model](https://arxiv.org/abs/2210.02414)
 
 ## Chain-of-thoughts
 
-- [[self-COT]Self-consistency improves chain of thought reasoning in language models](https://arxiv.org/abs/2203.11171) [code]()
 - [Reflexion: an autonomous agent with dynamic memory and self-reflection]()
+- [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/abs/2305.04091v3) (May 2023)
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
+- [[self-COT]Self-consistency improves chain of thought reasoning in language models](https://arxiv.org/abs/2203.11171) [code]()
 - [Universality and Limitations of Prompt Tuning](https://arxiv.org/abs/2305.18787) (May 2023)
 - [Self-Critique Prompting with Large Language Models for Inductive Instructions](https://arxiv.org/abs/2305.13733) (May 2023, 自我批评)
-- [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/abs/2305.04091v3) (May 2023)
 - [Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning with LLMs](https://arxiv.org/abs/2305.11860) (May 2023)
 - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) (May 2023)
 - [Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models](https://arxiv.org/abs/2305.10276) (May 2023)  
 - [Reprompting: Automated Chain-of-Thought Prompt Inference Through Gibbs Sampling](https://arxiv.org/abs/2305.09993) (May 2023) [采样算法更新]
 - [Boosted Prompt Ensembles for Large Language Models](https://arxiv.org/abs/2304.05970) (April 2023)
 - [REFINER: Reasoning Feedback on Intermediate Representations](https://arxiv.org/abs/2304.01904) (April 2023)
-- [Reflexion: an autonomous agent with dynamic memory and self-reflection](https://arxiv.org/abs/2303.11366) (March 2023)
 - [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651v1) (Mar 2023)
 - [Fairness-guided Few-shot Prompting for Large Language Models](https://arxiv.org/abs/2303.13217) (Mar 2023)
 - [Tab-CoT: Zero-shot Tabular Chain of Thought](https://arxiv.org/abs/2305.17812) (May 2023)
@@ -64,26 +61,20 @@
 
 ## Agent
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761) [code]
-
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) [code]
-
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/abs/2303.17580) [code]
-
 - [Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow](https://arxiv.org/abs/2306.07209) (June 2023，数据分析agent)
-
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) （May 2023，游戏agent）
-
 - [CooK: Empowering General-Purpose Language Models with Modular and Collaborative Knowledge](https://arxiv.org/abs/2305.09955) (May 2023)
-
 - [Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents](https://arxiv.org/abs/2306.03314)
-
 - [FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/abs/2305.05176v1) (May 2023)[成本与性能]
-
 - AgentGPT [code](https://github.com/reworkd/AgentGPT)
-
 - AutoGPT [[code](https://github.com/Significant-Gravitas/Auto-GPT)]
 
-  
+### agent交互
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442) (Apr 2023)
+- [CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society](https://arxiv.org/abs/2303.17760) (Mar 2023)
+
 
 ## Application
 
@@ -106,6 +97,7 @@
 - [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050) (May 2023)
 - [Reasoning with Language Model is Planning with World Model](https://arxiv.org/abs/2305.14992v1) (May 2023)
 - [Why think step-by-step? Reasoning emerges from the locality of experience](https://arxiv.org/abs/2304.03843) (April 2023)
+- [MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning](https://arxiv.org/abs/2205.00445) (May 2023)
 
 
 ### struct-data
