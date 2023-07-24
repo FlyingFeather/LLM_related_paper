@@ -13,6 +13,10 @@
 - [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://scontent-sin6-2.xx.fbcdn.net/v/t39.2365-6/10000000_662098952474184_2584067087619170692_n.pdf?_nc_cat=105&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=qhK-ahCbkBMAX9Dzaw7&_nc_ht=scontent-sin6-2.xx&oh=00_AfCAxDCJgixsboS6n2Wjww-x9hIayo0iASA47IddwbgnJw&oe=64BE66FF)
 - [GLM: General Language Model Pretraining with Autoregressive Blank Infilling](https://arxiv.org/abs/2103.10360)
 - [GLM-130B: An Open Bilingual Pre-trained Model](https://arxiv.org/abs/2210.02414)
+- [Github ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
+- [Github ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
+- [Github ChatLaw(中文法律大模型)](https://github.com/PKU-YuanGroup/ChatLaw)
+- [Github Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese)
 
 ## Chain-of-thoughts
 
@@ -45,7 +49,7 @@
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
   
-## Finetune
+## Model finetune
 ### base
 - [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention]()
 - [LoRA: Low-Rank Adaptation of Large Language Models]()
@@ -53,12 +57,7 @@
 - [Focused Prefix Tuning for Controllable Text Generation](https://arxiv.org/abs/2306.00369) (June 2023)
 
 ### model
-- [Github ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
-- [Github ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
-- [Github ChatLaw(中文法律大模型)](https://github.com/PKU-YuanGroup/ChatLaw)
-- [Github Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese)
-
-### multimodal
+- [FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
 
 ## ✨ some principle
 
@@ -99,6 +98,10 @@
 - [Chat2DB](https://github.com/chat2db/Chat2DB)
 
 
+### multimodal
+- [Minigpt-4: Enhancing vision-language understanding with advanced large language models](https://arxiv.org/abs/2304.10592)
+
+
 ### code
 #### SQL
 - [SQL-PaLM: Improved Large Language ModelAdaptation for Text-to-SQL](https://arxiv.org/abs/2306.00739) (June 2023)
@@ -109,7 +112,7 @@
 - ConvXAI: Delivering Heterogeneous AI Explanations via Conversations to Support Human-AI Scientific Writing
 
 
-### document
+### 📖 document
 - [PEARL: Prompting Large Language Models to Plan and Execute Actions Over Long Documents](https://arxiv.org/abs/2305.14564v1) (May 2023)
 - [Github gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 
@@ -130,5 +133,8 @@
 - [TELeR: A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks](https://arxiv.org/abs/2305.11430) (May 2023)  
 - [PromptClass: Weakly-Supervised Text Classification with Prompting Enhanced Noise-Robust Self-Training](https://arxiv.org/abs/2305.13723) (May 2023)
 - [Enhancing Black-Box Few-Shot Text Classification with Prompt-Based Data Augmentation](https://arxiv.org/abs/2305.13785) (May 2023)
+- [Text Classification via Large Language Models](https://arxiv.org/abs/2305.08377)
 
-  
+### recommendation
+- [Large language models are zero-shot rankers for recommender systems](https://arxiv.org/abs/2305.08845)
+- [BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model]()
