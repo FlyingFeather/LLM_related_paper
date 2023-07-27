@@ -24,11 +24,11 @@
 
 - [LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/pdf/2304.11477.pdf)
 - [Self-planning Code Generation with Large Language Model](https://arxiv.org/pdf/2303.06689.pdf)
-- [Embodied Task Planning with Large Language Models](https://arxiv.org/pdf/2303.06689.pdf)
+- [Embodied Task Planning with Large Language Models](https://arxiv.org/pdf/2307.01848.pdf)
 
 -------------------------------------------------------------------------------------------
 
-- [Reflexion: an autonomous agent with dynamic memory and self-reflection]()
+- [Reflexion: an autonomous agent with dynamic memory and self-reflection](https://arxiv.org/abs/2303.11366)
 - [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/abs/2305.04091v3) (May 2023)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - [[self-COT]Self-consistency improves chain of thought reasoning in language models](https://arxiv.org/abs/2203.11171) [code]()
