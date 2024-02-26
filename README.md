@@ -1,6 +1,6 @@
 # 📖 LLM_related_paper_and_github
 
-## Survey or consluion
+## Survey or conclusion
 - [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842) (Feb 2023) [code]
 - [Towards Reasoning in Large Language Models: A Survey.]() 
 - [Reasoning with Language Model Prompting: A Survey]()
@@ -110,11 +110,13 @@
 - [Minigpt-4: Enhancing vision-language understanding with advanced large language models](https://arxiv.org/abs/2304.10592)
 
 
-### code
+### code generation
 #### SQL
 - [SQL-PaLM: Improved Large Language ModelAdaptation for Text-to-SQL](https://arxiv.org/abs/2306.00739) (June 2023)
 - [Exploring Chain-of-Thought Style Prompting for Text-to-SQL](https://arxiv.org/abs/2305.14215) (May 2023)
-
+- (DAIL-SQL) Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation
+- (2023-nips-DIN-SQL) DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction
+- C3: Zero-shot Text-to-SQL with ChatGPT
 
 ### writing
 - ConvXAI: Delivering Heterogeneous AI Explanations via Conversations to Support Human-AI Scientific Writing
